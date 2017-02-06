@@ -1,0 +1,9 @@
+OpDrWeb 2009, 2010
+
+With 5.0 release DrWeb (AV company from Russia) introduced special self-protection system and won several awards (https://www.anti-malware.ru/self_protection_2009 Platinum award, https://www.anti-malware.ru/antivirus_self_protection_test_2010 Platinum award). In reality all these were fake awards and DrWeb self-protection was a merely a joke than anything else.
+
+During OpDrWeb for about two years DrWeb staff, including their Daniloff CEO (aka VodkaMan) and especially ex-virus writer Gladkih & DrWeb forums clown Komarov demonstrated how they all mentally unbalanced, weak and pathetically stupid in their attempts to retaliate SpiDiE. They were unable to do anything with 5 and later 6 version of their "Platinum awarded" product despite ocean of burning butthurt on their forums and numerous failed attempts to break SpiDiE functionality (later including pathetic signaturing).
+
+In 2012 during self-protection bypass challenge on kernelmode.info forum nrin demonstated that even DrWeb 8 version was unable to prevent slightly modified SpiDiE.
+
+(SpiDiE - play on words, name constructed from Spider - DrWeb fs filter component name and Die)
