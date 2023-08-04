@@ -1,0 +1,1 @@
+SilentDeath 1.0 (aka Win32.Serva (c) AVers) PE infection virus for Win9X/WinNT from ~2002 year.
